@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: beige;
+}
+p{
+    font-size: 10px;
+}
+.image-section{
+    display: flex;
+    justify-content: center;
+}
+.img{
+    width: 368px;
+    height: 244px;
+}
